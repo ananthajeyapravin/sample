@@ -1,5 +1,10 @@
 class sample{
-
 system.out.println("Hello");
+system.out.println("Hello");
+<<<<<<< HEAD
 system.out.println("vignesh");
 }
+=======
+
+}
+>>>>>>> 5c90cab609af075d83487b279f7b7bc13352428d
