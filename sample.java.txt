@@ -1,7 +1,9 @@
 class sample{
 system.out.println("Hello");
 system.out.println("Hello");
-<<<<<<< HEAD
+for(int i=0; i<=n; i++){
+
+}
 system.out.println("vignesh");
 }
 =======
